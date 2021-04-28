@@ -2,6 +2,21 @@ body {
   text-align: center;
   background-color: #011F3F;
 }
+footer{
+  font-size: 1.5rem;
+
+}
+a{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1.2rem;
+  margin:  5%;
+  color: #FEF2BF;
+  text-decoration: none;
+}
+
+a:hover{
+  color: yellow;
+}
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
