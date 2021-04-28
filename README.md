@@ -1,5 +1,5 @@
 # 🎮 Simon Game
-A fun game where you have to watch and listen carefully, so that you can remember the pattern and repeat after the computer or you lose.🎮
+A fun game where you have to watch and listen carefully, so that you can remember the pattern and repeat after the computer or you lose.
 
 # Tools Used
 - HTML

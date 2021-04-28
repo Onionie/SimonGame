@@ -3,12 +3,12 @@ body {
   background-color: #011F3F;
 }
 footer{
-  font-size: 1.5rem;
+  margin-top: 100px;
 
 }
 a{
   font-family: 'Press Start 2P', cursive;
-  font-size: 1.2rem;
+  font-size: 0.8rem;
   margin:  5%;
   color: #FEF2BF;
   text-decoration: none;
