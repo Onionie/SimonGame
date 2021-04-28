@@ -16,10 +16,20 @@ function playSound(color){
   audio.play();
 }
 
+function animatePress(currentColor){
+  $("#"+currentColor).addClass("pressed");
+  setTimeout(function() {
+    $("#"+currentColor).removeClass("pressed");
+    //....and whatever else you need to do
+  }, 100);
+}
+
 nextSequence();
 
 $(".btn").on("click",function(){
   var userChosenColor = $(this).attr("id");
   userClickedPattern.push(userChosenColor);
+  playSound(userChosenColor);
+  animatePress(userChosenColor);
   console.log(userClickedPattern);
 });
