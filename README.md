@@ -11,4 +11,4 @@ A fun game where you have to watch and listen carefully, so that you can remembe
 <img src = "https://github.com/Onionie/SimonGame/blob/main/images/1.PNG">
 
 # Deployment
-
+https://onionie.github.io/SimonGame/
