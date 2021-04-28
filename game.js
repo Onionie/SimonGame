@@ -48,7 +48,7 @@ function checkAnswer(currentLevel) {
     }, 200);
 
     // change h1 title to Game Over
-    $("#level-title").text("Game Over!");
+    $("#level-title").text("Game Over! Press Any Key To Restart");
     startOver();
   }
 }
